@@ -4,7 +4,7 @@ Aplicação de chat em tempo real com **servidor** e **cliente** desktop, desenv
 
 Projeto de estudo: partindo de uma implementação básica de chat TCP, o código foi revisado e refatorado para corrigir falhas de estabilidade, tratar erros de rede e deixar a estrutura mais clara. Cada melhoria está comentada no código com `// MELHORIA:`, explicando o que mudou e por quê.
 
-![Servidor e clientes conversando](docs/chat-funcionando.png)
+![Servidor e clientes conversando](docs/chat-funcionando.jpg)
 
 ---
 
